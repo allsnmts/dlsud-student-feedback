@@ -9,12 +9,12 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCyGN5LO-J23PUEV7yyvjOOwjAyahcimHM",
-  authDomain: "next-student-feedback.firebaseapp.com",
-  projectId: "next-student-feedback",
-  storageBucket: "next-student-feedback.appspot.com",
-  messagingSenderId: "909976799198",
-  appId: "1:909976799198:web:88472cf1fd17898bd5ff4f",
+  apiKey: "AIzaSyA8TkxAdCAwhc1GFUNH9Vl6MXLIBCXAO90",
+  authDomain: "test-f26b4.firebaseapp.com",
+  projectId: "test-f26b4",
+  storageBucket: "test-f26b4.appspot.com",
+  messagingSenderId: "1034691099692",
+  appId: "1:1034691099692:web:0fcaaf6c5ecead82616589"
 };
 
 export const app = initializeApp(firebaseConfig),
